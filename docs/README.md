@@ -3,9 +3,8 @@
 This is my first, learn-by-doing effort at web development.
 So, expect to see some mistakes and inefficiencies as we move along!
 
-Here is a 
-[relative link to a map](leaflet_example.html)
-made in html
+Here is a [map leaflet](leaflet_example.html)
+made in HTML
 
 Here is a [widget](math-widget.md) made in an ipython notebook
 that was first converted to markdown
