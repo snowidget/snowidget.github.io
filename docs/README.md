@@ -6,5 +6,5 @@ So, expect to see some mistakes and inefficiencies as we move along!
 Here is a [map leaflet](leaflet_example.html)
 made in HTML
 
-Here is a [widget](math_widget.md) made in an ipython notebook
+Here is a [widget](math_widget.html) made in an ipython notebook
 that was first converted to markdown
