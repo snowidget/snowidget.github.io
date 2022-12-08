@@ -7,8 +7,5 @@ Here is a [map leaflet](leaflet_example.html)
 made in HTML
 
 Here is a [widget](math_widget.html) made in an ipython notebook, which 
-needed to have its widgets embedded into an HTML
-
-Here's the [widget ipynb](math_widget.ipynb)
-
-The source [widget](IPythonWidgets.ipynb)
+needed to have its widgets embedded into an HTML, although it still 
+doesn't work.
