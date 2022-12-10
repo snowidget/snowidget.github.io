@@ -9,3 +9,5 @@ made in HTML
 Here is a [widget](math_widget.html) made in an ipython notebook, which 
 needed to have its widgets embedded into an HTML, although it still 
 doesn't work.
+
+A more involved widget for [plotting CDFs](huc8cdf_widget_v0.html) -- similar issues
